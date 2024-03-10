@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1710091472398" clover="3.2.0">
-  <project timestamp="1710091472398" name="All files">
-    <metrics statements="77" coveredstatements="30" conditionals="12" coveredconditionals="9" methods="6" coveredmethods="4" elements="95" coveredelements="43" complexity="0" loc="77" ncloc="77" packages="2" files="3" classes="3"/>
+<coverage generated="1710091923063" clover="3.2.0">
+  <project timestamp="1710091923064" name="All files">
+    <metrics statements="73" coveredstatements="28" conditionals="10" coveredconditionals="8" methods="6" coveredmethods="4" elements="89" coveredelements="40" complexity="0" loc="73" ncloc="73" packages="2" files="3" classes="3"/>
     <package name="src">
       <metrics statements="45" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
       <file name="App.tsx" path="/Users/pou/dev/refactor-project/curso-design-patterns-solid/codelabs/codelab-unit-testing/src/App.tsx">
@@ -57,9 +57,9 @@
       </file>
     </package>
     <package name="src.library">
-      <metrics statements="32" coveredstatements="30" conditionals="10" coveredconditionals="9" methods="4" coveredmethods="4"/>
+      <metrics statements="28" coveredstatements="28" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4"/>
       <file name="Library.ts" path="/Users/pou/dev/refactor-project/curso-design-patterns-solid/codelabs/codelab-unit-testing/src/library/Library.ts">
-        <metrics statements="32" coveredstatements="30" conditionals="10" coveredconditionals="9" methods="4" coveredmethods="4"/>
+        <metrics statements="28" coveredstatements="28" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="cond" truecount="1" falsecount="0"/>
@@ -81,17 +81,13 @@
         <line num="19" count="2" type="stmt"/>
         <line num="20" count="2" type="cond" truecount="1" falsecount="0"/>
         <line num="21" count="2" type="stmt"/>
-        <line num="22" count="3" type="cond" truecount="0" falsecount="1"/>
-        <line num="23" count="0" type="stmt"/>
-        <line num="24" count="0" type="cond" truecount="1" falsecount="0"/>
-        <line num="25" count="2" type="stmt"/>
-        <line num="26" count="3" type="cond" truecount="1" falsecount="0"/>
-        <line num="27" count="1" type="stmt"/>
-        <line num="28" count="1" type="stmt"/>
-        <line num="29" count="1" type="stmt"/>
-        <line num="30" count="1" type="stmt"/>
-        <line num="31" count="3" type="stmt"/>
-        <line num="32" count="4" type="stmt"/>
+        <line num="22" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="4" type="stmt"/>
       </file>
     </package>
   </project>

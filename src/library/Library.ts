@@ -19,10 +19,6 @@ export class Library {
 
     const foundBook = this.#books.find((book) => book.title === title);
 
-    if (foundBook === null) {
-      throw new Error("Error finding book");
-    }
-
     if (foundBook === undefined) {
       throw new Error("Book not found");
     }
